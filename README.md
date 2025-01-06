@@ -4,7 +4,7 @@ assessnement
 ## -Getting Started:
 ```bash
 # Clone the repository
-git clone https://github.com/usuario/proyecto.git 
+git clone https://github.com/Mahuer2410/react-assessment.git
 # Enter the project directory
 cd proyecto 
 # Install dependecies
